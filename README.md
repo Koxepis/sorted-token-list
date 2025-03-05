@@ -10,7 +10,7 @@ A TypeScript project for sorting and analyzing tokens based on multiple metrics.
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/sorting-token-list.git
+git clone https://github.com/Koxepis/sorting-token-list.git
 cd sorting-token-list
  
 ```
